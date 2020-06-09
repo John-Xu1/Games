@@ -1,0 +1,57 @@
+/*
+Dark Blue
+16A0CC
+Baby Blue
+00C1FF
+Light Green
+35FFC1
+Shallow Red
+FF7E75
+Magenta
+CC718A */
+body {
+    background-color:#CC718A;
+}
+.container {
+    margin: 0 auto;
+    width: 1166px;
+    height: 768px;
+    background-color: #FF7E75;
+}
+.banner {
+    text-align: center;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 1166px;
+    height: 150px;
+    float:left;
+    background-color: #35FFC1;
+}
+.nav {
+    width: 250px;
+    height: 618px;
+    float:left;
+    background-color: #00C1FF;
+}
+.navbutton {
+    width: 250px;
+    height: 50px;
+    float:left;
+    background-color: #00C1FF;
+}
+.navbutton:hover {
+    background-color: green;
+}
+
+.content {
+    padding: 15px;
+    width:886px;
+    height:588px;
+    float:left;
+    background-color:#FF7E75;
+}
+.footer{
+    font-size: 10px;
+}
+
+
